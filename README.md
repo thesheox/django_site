@@ -1,2 +1,2 @@
 # django_site
- my forst django site :)
+ my first django site :)
